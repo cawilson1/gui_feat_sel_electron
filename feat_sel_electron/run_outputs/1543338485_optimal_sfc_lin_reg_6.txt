@@ -1,0 +1,4 @@
+Error for top 6 features using single feature classification:
+sqft_living, view, grade, sqft_above, sqft_basement, sqft_living15, 
+-57697613216.0
+

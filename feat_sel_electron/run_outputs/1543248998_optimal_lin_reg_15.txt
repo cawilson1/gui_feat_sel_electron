@@ -1,0 +1,4 @@
+Error for top 15 features using recursive feature elimination:
+id, bedrooms, bathrooms, waterfront, view, condition, grade, sqft_above, sqft_basement, yr_built, yr_renovated, zipcode, lat, long, sqft_lot15, 
+-40975222453.7
+

@@ -1,0 +1,1 @@
+python ./automate_feature_selection/cmd_test.py sfc lin_reg kc_house_data_X.csv kc_house_data_y_regression.csv 6

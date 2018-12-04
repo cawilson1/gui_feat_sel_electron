@@ -1,0 +1,4 @@
+Error for top 6 features using recursive feature elimination:
+waterfront, grade, sqft_above, sqft_basement, yr_built, lat, 
+-44282076289.1
+

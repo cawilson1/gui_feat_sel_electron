@@ -1,0 +1,4 @@
+Error for top 6 features using recursive feature elimination:
+sqft_living, grade, yr_built, lat, long, sqft_living15, 
+0.834497869592
+
